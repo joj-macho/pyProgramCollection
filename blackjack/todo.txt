@@ -1,0 +1,6 @@
+Todo:
+
+- Add color to terminal cards
+- Add gui and web
+
+
