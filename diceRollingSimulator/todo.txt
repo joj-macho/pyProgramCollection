@@ -1,0 +1,3 @@
+Todo:
+- Add gui and web
+- Make them dice roll
