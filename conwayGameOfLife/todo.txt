@@ -1,0 +1,5 @@
+Todo
+
+- Add gui (https://github.com/TonyChouteau/PythonPercolation) and (https://github.com/FranciscoCharles/conways-game-of-life-in-python) and web
+- Blog items:
+https://rosettacode.org/wiki/Conway%27s_Game_of_Life#Python

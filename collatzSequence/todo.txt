@@ -1,0 +1,4 @@
+Todo
+
+- Understand flush step.
+- web and gui
